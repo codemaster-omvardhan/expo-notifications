@@ -18,6 +18,7 @@
         "backgroundColor": "#ffffff"
       },
       "package": "dev.expo.notificationsapptutorial",
+      "googleServicesFile": "./google-services.json",
       "edgeToEdgeEnabled": true
     },
     "web": {
